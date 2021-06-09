@@ -52,7 +52,7 @@
     "less": "^3.9.0",
     "lint-staged": "^8.1.1",
     "patch-package": "^6.4.7",
-    "postcss": "^7.0.35",
+    "postcss": "^8.2.10",
     "pug": "^2.0.3",
     "sass": "^1.17.3",
     "stylus": "^0.54.5",
